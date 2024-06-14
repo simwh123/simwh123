@@ -1,7 +1,13 @@
-## Hi there 👋
+<p align='center'>
+  <a href="https://github.com/simwh123">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=270&color=gradient&text=Hugo's%20Lecture%20Repository&section=header&reversal=false&textBg=false&fontColor=005174&fontSize=40&animation=blinking&fontAlign=50"/>
+  </a>
+</p>
 
-
-
+## Profile
+- Name :
+- Age
+- Email :
 <!--
 **simwh123/simwh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
