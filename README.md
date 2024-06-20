@@ -4,7 +4,7 @@
 - Birth : 1996
 - ✉️ : tlatlek@naver.com
 
-## Using Languages
+## Using Skill
 
 ![Python](https://github.com/simwh123/simwh123/assets/160683556/f8b4c07d-58b8-4db3-b04d-4b658f1ab264)
 ![Java](https://github.com/simwh123/simwh123/assets/160683556/642be9d2-49a8-49a7-aa6a-93210441570f)
