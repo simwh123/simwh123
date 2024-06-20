@@ -5,10 +5,10 @@
 - ✉️ : tlatlek@naver.com
 
 ## Using Languages
-![Java](https://github.com/simwh123/simwh123/assets/160683556/5a1472f0-403c-4813-9200-f585b70e3e13)
-![Python](https://github.com/simwh123/simwh123/assets/160683556/801d1dcb-7f24-4bd6-a658-e740c1dd33fa)
-![JS](https://github.com/simwh123/simwh123/assets/160683556/e09ed6bc-af50-4468-83b3-e83cf434f3ca)
-<img width="35" alt="SpringBoot (1)" src="https://github.com/simwh123/simwh123/assets/160683556/41d801b5-518f-4aa7-aefe-33e8b28eb0fb">
+![Python](https://github.com/simwh123/simwh123/assets/160683556/f8b4c07d-58b8-4db3-b04d-4b658f1ab264)
+![SpringBoot]("https://github.com/simwh123/simwh123/assets/160683556/d0654358-1cbc-4cc5-a0de-c571759d05f9")
+![Java](https://github.com/simwh123/simwh123/assets/160683556/642be9d2-49a8-49a7-aa6a-93210441570f)
+![JS](https://github.com/simwh123/simwh123/assets/160683556/0c9704e2-42f5-4c72-9079-f6c408d8c95d)
 
 
 ## Portfolio
