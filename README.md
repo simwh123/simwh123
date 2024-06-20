@@ -14,7 +14,7 @@
 
 ## Portfolio
 - [팀 프로젝트](https://github.com/PUK-Java/PUK-Groupware)
-- [개인학습]()
+- [개인 프로젝트](https://github.com/simwh123/Portfolio)
 - 파이썬학습
   - [파이썬 기초학습](https://github.com/simwh123/java-bigdata-2024)
   - [파이썬 빅데이터](https://github.com/simwh123/bigdata-analysis-2024?tab=readme-ov-file)
