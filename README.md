@@ -11,3 +11,5 @@
 ![Python](https://github.com/simwh123/simwh123/assets/160683556/801d1dcb-7f24-4bd6-a658-e740c1dd33fa)
 ![JS](https://github.com/simwh123/simwh123/assets/160683556/e09ed6bc-af50-4468-83b3-e83cf434f3ca)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simwh123&layout=compact)
+
