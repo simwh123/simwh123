@@ -5,10 +5,11 @@
 - ✉️ : tlatlek@naver.com
 
 ## Using Languages
+
 ![Python](https://github.com/simwh123/simwh123/assets/160683556/f8b4c07d-58b8-4db3-b04d-4b658f1ab264)
-![SpringBoot]("https://github.com/simwh123/simwh123/assets/160683556/d0654358-1cbc-4cc5-a0de-c571759d05f9")
 ![Java](https://github.com/simwh123/simwh123/assets/160683556/642be9d2-49a8-49a7-aa6a-93210441570f)
 ![JS](https://github.com/simwh123/simwh123/assets/160683556/0c9704e2-42f5-4c72-9079-f6c408d8c95d)
+![SpringBoot](https://github.com/simwh123/simwh123/assets/160683556/58cc3cce-f3ea-464a-9142-c939a7e9ab18)
 
 
 ## Portfolio
