@@ -7,6 +7,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simwh123&show_icons=true&theme=radical)
 
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
-![Java](https://github.com/simwh123/simwh123/assets/160683556/16201634-1f5b-49ec-bf37-081de6b6139d)
+![Java](https://github.com/simwh123/simwh123/assets/160683556/b696e9dc-e73a-49e2-a69c-a369b7f7ed51)
