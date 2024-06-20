@@ -16,7 +16,7 @@
 - [팀 프로젝트](https://github.com/PUK-Java/PUK-Groupware)
 - [개인학습]()
 - 파이썬학습
-  - 파이썬학습1
+  - [파이썬 빅데이터](https://github.com/simwh123/java-bigdata-2024)
   - 파이썬학습2
 
   
