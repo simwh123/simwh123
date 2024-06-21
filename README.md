@@ -10,6 +10,7 @@
 ![Java](https://github.com/simwh123/simwh123/assets/160683556/642be9d2-49a8-49a7-aa6a-93210441570f)
 ![JS](https://github.com/simwh123/simwh123/assets/160683556/0c9704e2-42f5-4c72-9079-f6c408d8c95d)
 ![SpringBoot](https://github.com/simwh123/simwh123/assets/160683556/58cc3cce-f3ea-464a-9142-c939a7e9ab18)
+![SQLD (1)](https://github.com/simwh123/simwh123/assets/160683556/b7da69a0-7f81-47f6-b084-fe9a401fe6f4)
 
 
 ## Portfolio
