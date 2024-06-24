@@ -4,6 +4,11 @@
 - Birth : 1996
 - ✉️ : tlatlek@naver.com
 
+## education
+|교육기관|교육명|기간|
+|---|---|---|
+|부경대학교 인력양성사업단|빅데이터를 활용한 자바 개발자|2024.02 ~ 2024.07|
+
 ## Using Skill
 
 ![Python](https://github.com/simwh123/simwh123/assets/160683556/f8b4c07d-58b8-4db3-b04d-4b658f1ab264)
